@@ -1,11 +1,11 @@
 
 
 This archive contains the distribution Dist-Zilla-Plugin-CustomLicense,
-version 0.1.0_01:
+version 0.1.0_02:
 
   setting legal stuff of Dist::Zilla while keeping control
 
-Copyright (C) 2010 by Flavio Poletti.
+Copyright (C) 2010 by Flavio Poletti <polettix@cpan.org>.
 
 This module is free software.  You can redistribute it and/or
 modify it under the terms of the Artistic License 2.0.

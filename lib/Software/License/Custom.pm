@@ -1,6 +1,6 @@
 package Software::License::Custom;
 BEGIN {
-  $Software::License::Custom::VERSION = '0.1.0_01';
+  $Software::License::Custom::VERSION = '0.1.0_02';
 }
 use strict;
 use warnings;
@@ -105,7 +105,7 @@ Software::License::Custom - custom license handler
 
 =head1 VERSION
 
-version 0.1.0_01
+version 0.1.0_02
 
 =head1 DESCRIPTION
 
@@ -269,7 +269,7 @@ Flavio Poletti <polettix@cpan.org>
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright (C) 2010 by Flavio Poletti.
+Copyright (C) 2010 by Flavio Poletti <polettix@cpan.org>.
 
 This module is free software.  You can redistribute it and/or
 modify it under the terms of the Artistic License 2.0.

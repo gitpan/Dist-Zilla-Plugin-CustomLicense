@@ -1,6 +1,6 @@
 package Dist::Zilla::Plugin::CustomLicense;
 BEGIN {
-  $Dist::Zilla::Plugin::CustomLicense::VERSION = '0.1.0_01';
+  $Dist::Zilla::Plugin::CustomLicense::VERSION = '0.1.0_02';
 }
 # ABSTRACT: setting legal stuff of Dist::Zilla while keeping control
 
@@ -28,7 +28,7 @@ Dist::Zilla::Plugin::CustomLicense - setting legal stuff of Dist::Zilla while ke
 
 =head1 VERSION
 
-version 0.1.0_01
+version 0.1.0_02
 
 =head1 DESCRIPTION
 
@@ -68,7 +68,7 @@ Flavio Poletti <polettix@cpan.org>
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright (C) 2010 by Flavio Poletti.
+Copyright (C) 2010 by Flavio Poletti <polettix@cpan.org>.
 
 This module is free software.  You can redistribute it and/or
 modify it under the terms of the Artistic License 2.0.

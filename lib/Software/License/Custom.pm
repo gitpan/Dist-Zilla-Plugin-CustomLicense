@@ -1,6 +1,6 @@
 package Software::License::Custom;
 BEGIN {
-  $Software::License::Custom::VERSION = '0.1.0_02';
+  $Software::License::Custom::VERSION = '0.9.0';
 }
 use strict;
 use warnings;
@@ -105,7 +105,7 @@ Software::License::Custom - custom license handler
 
 =head1 VERSION
 
-version 0.1.0_02
+version 0.9.0
 
 =head1 DESCRIPTION
 

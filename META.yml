@@ -17,4 +17,4 @@ requires:
   Moose: 0
   Software::License: 0
   Text::Template: 0
-version: 0.1.0_02
+version: 0.9.0

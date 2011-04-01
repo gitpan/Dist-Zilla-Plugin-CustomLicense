@@ -7,7 +7,6 @@ README
 eg/LEGAL
 eg/dist.ini
 lib/Dist/Zilla/Plugin/CustomLicense.pm
-lib/Software/License/Custom.pm
 t/00-load.t
 t/01-software-license-custom.t
 t/pod-coverage.t

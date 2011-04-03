@@ -15,6 +15,6 @@ name: Dist-Zilla-Plugin-CustomLicense
 requires:
   Dist::Zilla: 4.102342
   Moose: 0
-  Software::License: 0
+  Software::License: 0.103000
   Text::Template: 0
-version: 1.0.0
+version: 1.0.1

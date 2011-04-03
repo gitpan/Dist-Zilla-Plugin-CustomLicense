@@ -1,6 +1,6 @@
 package Dist::Zilla::Plugin::CustomLicense;
 BEGIN {
-  $Dist::Zilla::Plugin::CustomLicense::VERSION = '1.0.0';
+  $Dist::Zilla::Plugin::CustomLicense::VERSION = '1.0.1';
 }
 # ABSTRACT: setting legal stuff of Dist::Zilla while keeping control
 
@@ -28,7 +28,7 @@ Dist::Zilla::Plugin::CustomLicense - setting legal stuff of Dist::Zilla while ke
 
 =head1 VERSION
 
-version 1.0.0
+version 1.0.1
 
 =head1 DESCRIPTION
 

@@ -25,7 +25,7 @@ my %WriteMakefileArgs = (
     'Software::License' => '0.103000',
     'Text::Template' => '0'
   },
-  'VERSION' => '1.0.1',
+  'VERSION' => '1.0.2',
   'test' => {
     'TESTS' => 't/*.t'
   }

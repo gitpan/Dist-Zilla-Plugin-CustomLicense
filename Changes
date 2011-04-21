@@ -1,3 +1,8 @@
+1.0.2     2011-04-21 09:18:39 Europe/Rome
+   - added documentation to explain how to write a custom license
+     file, it has disappeared from Software::License::CustomLicense
+     after the handover
+
 1.0.1     2011-04-03 19:15:50 Europe/Rome
    - fixed version in dependency of Software::License
 
